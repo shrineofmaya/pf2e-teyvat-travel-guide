@@ -2,6 +2,10 @@
 A FoundryVTT module that implements monsters, items, and automation for the mechanics found in the Teyvat Travel Guide, an unofficial campaign supplement for running Teyvat, the world of Genshin Impact, in Pathfinder 2nd Edition.
 # See the Scribe for the full rules and setting information at: https://scribe.pf2.tools/v/pY57qpow-genshin-impact-pf2e
 
+# Screenshots
+![Teyvat Travel Guide Creatures](https://i.imgur.com/gfRobJI.png)
+![Adventure Document](https://i.imgur.com/KM1S5OE.png)
+
 # Requirements
 - FoundryVTT v11
 - Pathfinder 2nd Edition game system
