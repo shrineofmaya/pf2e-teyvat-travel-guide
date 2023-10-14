@@ -8,10 +8,6 @@ A FoundryVTT module that implements monsters, items, and automation for the mech
 - Custom languages, traits, and damage types for the monsters and elements.
 - Automated elemental status effects for triggering Elemental Reactions based on damage types and traits.
 
-# Screenshots
-![Teyvat Travel Guide Creatures](https://i.imgur.com/gfRobJI.png)
-![Adventure Document](https://i.imgur.com/KM1S5OE.png)
-
 # Requirements
 - FoundryVTT v11
 - Pathfinder 2nd Edition game system
@@ -23,3 +19,8 @@ A FoundryVTT module that implements monsters, items, and automation for the mech
 3. Enable the module in a new or existing world and navigate to the Compendiums Packs tab.
 4. Find and click on the Teyvat Travel Guide in the Compendium Packs tab and open the adventure document.
 5. Click Import Adventure.
+
+
+# Screenshots
+![Teyvat Travel Guide Creatures](https://i.imgur.com/gfRobJI.png)
+![Adventure Document](https://i.imgur.com/KM1S5OE.png)
