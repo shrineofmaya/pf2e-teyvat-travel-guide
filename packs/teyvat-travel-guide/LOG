@@ -1,7 +1,14 @@
-2023/10/27-16:39:08.239 3c3c Recovering log #17
-2023/10/27-16:39:08.242 3c3c Delete type=0 #17
-2023/10/27-16:39:08.242 3c3c Delete type=3 #14
-2023/10/27-16:39:39.966 3b10 Level-0 table #23: started
-2023/10/27-16:39:39.966 3b10 Level-0 table #23: 0 bytes OK
-2023/10/27-16:39:39.968 3b10 Delete type=0 #21
-2023/10/27-16:39:39.968 3b10 Manual compaction at level-0 from '!adventures!KjxOBsGMtbhvh2Pm' @ 72057594037927935 : 1 .. '!adventures!KjxOBsGMtbhvh2Pm' @ 0 : 0; will stop at (end)
+2023/10/27-22:41:32.164 2164 Recovering log #22
+2023/10/27-22:41:32.167 2164 Delete type=0 #22
+2023/10/27-22:41:32.167 2164 Delete type=3 #20
+2023/10/27-23:07:54.840 d0c Level-0 table #27: started
+2023/10/27-23:07:54.893 d0c Level-0 table #27: 551720 bytes OK
+2023/10/27-23:07:54.895 d0c Delete type=0 #25
+2023/10/27-23:07:54.896 d0c Manual compaction at level-0 from '!adventures!KjxOBsGMtbhvh2Pm' @ 72057594037927935 : 1 .. '!adventures!KjxOBsGMtbhvh2Pm' @ 0 : 0; will stop at '!adventures!KjxOBsGMtbhvh2Pm' @ 3 : 1
+2023/10/27-23:07:54.896 d0c Compacting 1@0 + 1@1 files
+2023/10/27-23:07:54.951 d0c Generated table #28@0: 1 keys, 550346 bytes
+2023/10/27-23:07:54.951 d0c Compacted 1@0 + 1@1 files => 550346 bytes
+2023/10/27-23:07:54.952 d0c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/10/27-23:07:54.952 d0c Delete type=2 #19
+2023/10/27-23:07:54.952 d0c Delete type=2 #27
+2023/10/27-23:07:54.952 d0c Manual compaction at level-0 from '!adventures!KjxOBsGMtbhvh2Pm' @ 3 : 1 .. '!adventures!KjxOBsGMtbhvh2Pm' @ 0 : 0; will stop at (end)
