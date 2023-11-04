@@ -11,7 +11,7 @@ A FoundryVTT module that implements monsters, items, and automation for the mech
 # Requirements
 - FoundryVTT v11
 - Pathfinder 2nd Edition game system
-   - Version 5.8.1 or later is highly recommended! The functionality of many automated features is not guaranteed on older versions
+   - Version 5.8.2 or later is highly recommended! The functionality of many automated features is not guaranteed on older versions
 
 # Installation
 1. In FoundryVTT, navigate to the 'Add-on Modules' tab and click Install Module.
