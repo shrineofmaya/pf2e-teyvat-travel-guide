@@ -24,4 +24,4 @@ A FoundryVTT module that implements monsters, items, and automation for the mech
 
 # Screenshots
 ![Teyvat Travel Guide Creatures](https://i.imgur.com/LTtcNuw.png)
-![Adventure Document](https://i.imgur.com/hz68AnK.png)
+![Adventure Document](https://i.imgur.com/fOD9glS.png)
