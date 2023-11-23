@@ -4,7 +4,7 @@ A FoundryVTT module that implements monsters, items, and automation for the mech
 ### Also, see the wiki for detailed information on the included content in this module at: https://github.com/shrineofmaya/pf2e-teyvat-travel-guide/wiki/Teyvat-Travel-Guide-Wiki
 
 # Features
-- Over 100 fully filled monster NPC sheets with included abilities and clickable inline rolls and custom automation effects.
+- Over 120 fully filled monster NPC sheets with included abilities and clickable inline rolls and custom automation effects.
 - Custom made tokens for every monster using art from ingame screenshots and the fandom wiki.
 - Custom languages, traits, and damage types for the monsters and elements.
 - Automated elemental status effects for triggering Elemental Reactions based on damage types and traits.
