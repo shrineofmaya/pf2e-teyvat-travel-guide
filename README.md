@@ -16,7 +16,7 @@ A FoundryVTT module that implements monsters, items, and automation for the mech
 
 # Installation
 1. In FoundryVTT, navigate to the 'Add-on Modules' tab and click Install Module.
-2. Enter `https://raw.githubusercontent.com/shrineofmaya/pf2e-teyvat-travel-guide/main/module.json` into the Manifest URL at the bottom of the window and click Install.
+2. Enter `https://github.com/shrineofmaya/pf2e-teyvat-travel-guide/releases/latest/download/module.json` into the Manifest URL at the bottom of the window and click Install.
 3. Enable the module in a new or existing world and navigate to the Compendium Packs tab.
 4. Find and click on the Teyvat Travel Guide in the Compendium Packs tab and open the adventure document.
 5. Click Import Adventure.
