@@ -1,16 +1,16 @@
 {
   "id": "pf2e-teyvat-travel-guide",
   "title": "Teyvat Travel Guide - Genshin Impact PF2e",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
   
-  "description": "This is a fan-made, unofficial supplement for Pathfinder 2e that adds various items, enemies, and mechanics from the world of Teyvat, the main setting for Genshin Impact. Elemental combat is added to party, enemy and environmental interactions, making combat even more strategic and teamwork oriented.\n\nThe seven elements are a core part of the worldbuilding and mechanics of the setting, consisting of Anemo, Geo, Electro, Dendro, Hydro, Pyro, and Cryo. Each element interacts with other elements in unique ways that can trigger certain Elemental Reactions, which can provide additional damage, utility, and more.\n\nAutomation is included for all Elements and their associated Elemental Reactions, as well as fully filled out NPC sheets for the 120+ monsters included in this module.\n\nCheck out the Scribe for all the up to date rules and setting information at https://scribe.pf2.tools/v/pY57qpow-genshin-impact-pf2e",
+  "description": "This is a fan-made, unofficial supplement for Pathfinder 2e that adds various items, enemies, and mechanics from the world of Teyvat, the main setting for Genshin Impact. Elemental combat is added to party, enemy and environmental interactions, making combat even more strategic and teamwork oriented.\n\nThe seven elements are a core part of the worldbuilding and mechanics of the setting, consisting of Anemo, Geo, Electro, Dendro, Hydro, Pyro, and Cryo. Each element interacts with other elements in unique ways that can trigger certain Elemental Reactions, which can provide additional damage, utility, and more.\n\nAutomation is included for all Elements and their associated Elemental Reactions, as well as fully filled out NPC sheets for the 130+ monsters included in this module.\n\nCheck out the Scribe for all the up to date rules and setting information at https://scribe.pf2.tools/v/pY57qpow-genshin-impact-pf2e",
   "url": "https://github.com/shrineofmaya/pf2e-teyvat-travel-guide",
   "manifest": "https://github.com/shrineofmaya/pf2e-teyvat-travel-guide/releases/latest/download/module.json",
-  "download": "https://github.com/shrineofmaya/pf2e-teyvat-travel-guide/releases/download/1.1.0/module.zip",
+  "download": "https://github.com/shrineofmaya/pf2e-teyvat-travel-guide/releases/download/1.1.1/module.zip",
   "relationships": {
     "systems": [
       {
@@ -18,7 +18,7 @@
         "type": "system",
         "compatibility": {
 	  "minimum": "5.9.5",
-	  "verified": "5.9.5"
+	  "verified": "5.13.6"
 	}
       }
     ]
@@ -135,7 +135,10 @@
           "treasure-hoarder": "Treasure Hoarder",
           "vishap": "Vishap",
           "rifthound": "Rifthound",
-          "nobushi": "Nobushi"
+          "nobushi": "Nobushi",
+	  "pneuma": "Pneuma",
+	  "ousia": "Ousia",
+	  "meka": "Meka"
         },
         "damageTypes": {
           "anemo": {
@@ -181,7 +184,9 @@
           "electro": "Electro",
           "geo": "Geo",
           "hydro": "Hydro",
-          "pyro": "Pyro"
+          "pyro": "Pyro",
+	  "pneuma": "Pneuma",
+	  "ousia": "Ousia"
         },
         "spellTraits": {
           "anemo": "Anemo",
@@ -190,7 +195,9 @@
           "electro": "Electro",
           "geo": "Geo",
           "hydro": "Hydro",
-          "pyro": "Pyro"
+          "pyro": "Pyro",
+	  "pneuma": "Pneuma",
+	  "ousia": "Ousia"
         },
         "featTraits": {
           "anemo": "Anemo",
@@ -199,7 +206,9 @@
           "electro": "Electro",
           "geo": "Geo",
           "hydro": "Hydro",
-          "pyro": "Pyro"
+          "pyro": "Pyro",
+	  "pneuma": "Pneuma",
+	  "ousia": "Ousia"
         },
         "weaponTraits": {
           "anemo": "Anemo",
@@ -208,7 +217,9 @@
           "electro": "Electro",
           "geo": "Geo",
           "hydro": "Hydro",
-          "pyro": "Pyro"
+          "pyro": "Pyro",
+	  "pneuma": "Pneuma",
+	  "ousia": "Ousia"
         },
         "languages": {
           "mondstadtian": "Mondstadtian",
