@@ -4,7 +4,7 @@ A FoundryVTT module that implements monsters, items, and automation for the mech
 ### Also, see the wiki for detailed information on the included content in this module at: https://github.com/shrineofmaya/pf2e-teyvat-travel-guide/wiki/Teyvat-Travel-Guide-Wiki
 
 # Features
-- Over 120 fully filled monster NPC sheets with included abilities and clickable inline rolls and custom automation effects.
+- Over 130 fully filled monster NPC sheets with included abilities and clickable inline rolls and custom automation effects.
 - Custom made tokens for every monster using art from ingame screenshots and the fandom wiki.
 - Custom languages, traits, and damage types for the monsters and elements.
 - Automated elemental status effects for triggering Elemental Reactions based on damage types and traits.
@@ -12,7 +12,7 @@ A FoundryVTT module that implements monsters, items, and automation for the mech
 # Requirements
 - FoundryVTT v11
 - Pathfinder 2nd Edition game system
-   - Version 5.8.3 or later is highly recommended! The functionality of many automated features is not guaranteed on older versions
+   - Version 5.13.6 or later is highly recommended! The functionality of many automated features is not guaranteed on older versions
 
 # Installation
 1. In FoundryVTT, navigate to the 'Add-on Modules' tab and click Install Module.
@@ -23,5 +23,5 @@ A FoundryVTT module that implements monsters, items, and automation for the mech
 
 
 # Screenshots
-![Teyvat Travel Guide Creatures](https://i.imgur.com/LTtcNuw.png)
-![Adventure Document](https://i.imgur.com/fOD9glS.png)
+![Teyvat Travel Guide Creatures](https://i.imgur.com/mV1UB7T.png)
+![Adventure Document](https://i.imgur.com/o9p6iNm.png)
