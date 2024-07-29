@@ -1,3 +1,8 @@
-2024/04/11-13:33:47.491 32cc Recovering log #198
-2024/04/11-13:33:47.495 32cc Delete type=0 #198
-2024/04/11-13:33:47.495 32cc Delete type=3 #197
+2024/07/29-15:27:06.348 ca8 Recovering log #245
+2024/07/29-15:27:06.351 ca8 Delete type=0 #245
+2024/07/29-15:27:06.351 ca8 Delete type=3 #243
+2024/07/29-15:38:28.829 24dc Level-0 table #250: started
+2024/07/29-15:38:28.829 24dc Level-0 table #250: 0 bytes OK
+2024/07/29-15:38:28.830 24dc Delete type=0 #248
+2024/07/29-15:38:28.830 24dc Manual compaction at level-0 from '!folders!0JswghUciJhcpfC7' @ 72057594037927935 : 1 .. '!items!zoKNmy9wjZeJ3I6E' @ 0 : 0; will stop at (end)
+2024/07/29-15:38:28.831 24dc Manual compaction at level-1 from '!folders!0JswghUciJhcpfC7' @ 72057594037927935 : 1 .. '!items!zoKNmy9wjZeJ3I6E' @ 0 : 0; will stop at (end)

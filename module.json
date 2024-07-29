@@ -6,8 +6,7 @@
     "minimum": "11",
     "verified": "11"
   },
-  
-  "description": "This is a fan-made, unofficial supplement for Pathfinder 2e that adds various items, enemies, and mechanics from the world of Teyvat, the main setting for Genshin Impact. Elemental combat is added to party, enemy and environmental interactions, making combat even more strategic and teamwork oriented.\n\nThe seven elements are a core part of the worldbuilding and mechanics of the setting, consisting of Anemo, Geo, Electro, Dendro, Hydro, Pyro, and Cryo. Each element interacts with other elements in unique ways that can trigger certain Elemental Reactions, which can provide additional damage, utility, and more.\n\nAutomation is included for all Elements and their associated Elemental Reactions, as well as fully filled out NPC sheets for the 130+ monsters included in this module.\n\nCheck out the Scribe for all the up to date rules and setting information at https://scribe.pf2.tools/v/pY57qpow-genshin-impact-pf2e",
+  "description": "This is a fan-made, unofficial supplement for Pathfinder 2e that adds various items, enemies, and mechanics from the world of Teyvat, the main setting for Genshin Impact. Elemental combat is added to party, enemy and environmental interactions, making combat even more strategic and teamwork oriented.\n\nThe seven elements are a core part of the worldbuilding and mechanics of the setting, consisting of Anemo, Geo, Electro, Dendro, Hydro, Pyro, and Cryo. Each element interacts with other elements in unique ways that can trigger certain Elemental Reactions, which can provide additional damage, utility, and more.\n\nAutomation is included for all Elements and their associated Elemental Reactions, as well as fully filled out NPC sheets for the 140+ monsters included in this module.\n\nCheck out the Scribe for all the up to date rules and setting information at https://scribe.pf2.tools/v/pY57qpow-genshin-impact-pf2e",
   "url": "https://github.com/shrineofmaya/pf2e-teyvat-travel-guide",
   "manifest": "https://github.com/shrineofmaya/pf2e-teyvat-travel-guide/releases/latest/download/module.json",
   "download": "https://github.com/shrineofmaya/pf2e-teyvat-travel-guide/releases/download/1.1.2/module.zip",
@@ -17,9 +16,9 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-	  "minimum": "5.9.5",
-	  "verified": "5.13.6"
-	}
+          "minimum": "5.9.5",
+          "verified": "5.13.6"
+        }
       }
     ]
   },
@@ -29,28 +28,29 @@
     }
   ],
   "packFolders": [
-        {
-            "name": "Genshin Impact",
-            "sorting": "m",
-	    "color":"#64b206",
-            "packs": [
-		"teyvat-travel-guide",
-                "creature-ability-effects",
-                "elemental-reaction-effects",
-		"elemental-reactions",
-		"elements",
-		"equipment"
-            ]
-        }
+    {
+      "name": "Genshin Impact",
+      "sorting": "m",
+      "color": "#64b206",
+      "packs": [
+        "teyvat-travel-guide",
+        "creature-ability-effects",
+        "elemental-reaction-effects",
+        "elemental-reactions",
+        "elements",
+        "equipment"
       ],
+      "folders": []
+    }
+  ],
   "packs": [
     {
       "name": "teyvat-travel-guide",
       "label": "Teyvat Travel Guide",
+      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/splash.jpg",
       "path": "packs/teyvat-travel-guide",
       "type": "Adventure",
       "system": "pf2e",
-      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/splash.jpg",
       "ownership": {
         "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
@@ -59,62 +59,62 @@
     {
       "name": "creature-ability-effects",
       "label": "Creature Ability Effects",
+      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/compendium-banner-creatures.webp",
       "path": "packs/creature-ability-effects",
       "type": "Item",
-      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/compendium-banner-creatures.webp",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "elemental-reaction-effects",
       "label": "Elemental Reaction Effects",
+      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/compendium-banner-reaction-effects.webp",
       "path": "packs/elemental-reaction-effects",
       "type": "Item",
-      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/compendium-banner-reaction-effects.webp",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "elemental-reactions",
       "label": "Elemental Reactions",
+      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/compendium-banner-reactions.webp",
       "path": "packs/elemental-reactions",
       "type": "Item",
-      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/compendium-banner-reactions.webp",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "elements",
       "label": "Elements",
-      "path": "packs/elements",
       "banner": "modules/pf2e-teyvat-travel-guide/art/banners/compendium-banner-elements.webp",
+      "path": "packs/elements",
       "type": "Item",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "equipment",
       "label": "Equipment",
+      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/compendium-banner-equipment.webp",
       "path": "packs/equipment",
       "type": "Item",
-      "banner": "modules/pf2e-teyvat-travel-guide/art/banners/compendium-banner-equipment.webp",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     }
   ],
   "flags": {
@@ -136,9 +136,9 @@
           "vishap": "Vishap",
           "rifthound": "Rifthound",
           "nobushi": "Nobushi",
-	  "pneuma": "Pneuma",
-	  "ousia": "Ousia",
-	  "meka": "Meka"
+          "pneuma": "Pneuma",
+          "ousia": "Ousia",
+          "meka": "Meka"
         },
         "damageTypes": {
           "anemo": {
@@ -185,8 +185,8 @@
           "geo": "Geo",
           "hydro": "Hydro",
           "pyro": "Pyro",
-	  "pneuma": "Pneuma",
-	  "ousia": "Ousia"
+          "pneuma": "Pneuma",
+          "ousia": "Ousia"
         },
         "spellTraits": {
           "anemo": "Anemo",
@@ -196,8 +196,8 @@
           "geo": "Geo",
           "hydro": "Hydro",
           "pyro": "Pyro",
-	  "pneuma": "Pneuma",
-	  "ousia": "Ousia"
+          "pneuma": "Pneuma",
+          "ousia": "Ousia"
         },
         "featTraits": {
           "anemo": "Anemo",
@@ -207,8 +207,8 @@
           "geo": "Geo",
           "hydro": "Hydro",
           "pyro": "Pyro",
-	  "pneuma": "Pneuma",
-	  "ousia": "Ousia"
+          "pneuma": "Pneuma",
+          "ousia": "Ousia"
         },
         "weaponTraits": {
           "anemo": "Anemo",
@@ -218,8 +218,8 @@
           "geo": "Geo",
           "hydro": "Hydro",
           "pyro": "Pyro",
-	  "pneuma": "Pneuma",
-	  "ousia": "Ousia"
+          "pneuma": "Pneuma",
+          "ousia": "Ousia"
         },
         "languages": {
           "mondstadtian": "Mondstadtian",
@@ -231,7 +231,8 @@
           "snezhnayan": "Snezhnayan",
           "hilichurlian": "Hilichurlian",
           "deshret": "Deshret",
-          "khaenri'ahn": "Khaenri'ahn"
+          "khaenri'ahn": "Khaenri'ahn",
+          "remurian": "Remurian"
         }
       }
     }
